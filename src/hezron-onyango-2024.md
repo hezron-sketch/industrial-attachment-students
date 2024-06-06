@@ -32,3 +32,5 @@
 ### My Online Portfolio
 [My Portfolio](https://mtuhalfportfolio.vercel.app/)
 
+## About me
+I am a comp enthusiast, I posses good programming and computer related skills.

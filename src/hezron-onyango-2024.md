@@ -19,6 +19,7 @@
 - React/Next.JS
 - Git and GitHub
 - Flutter
+ -.NET Framework
 
 
 ## Portfolio
